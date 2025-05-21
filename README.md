@@ -24,6 +24,6 @@ A clean and functional To-Do List web app built using HTML, CSS, and JavaScript.
 - JavaScript (Vanilla) – Functionality and local storage
 
 ---
-##🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 - Frontend web development community
